@@ -1,0 +1,9 @@
+/home/juyiii/ImageDDS/CMakeFiles/ImageData.dir
+/home/juyiii/ImageDDS/CMakeFiles/ImageDataWrapper.dir
+/home/juyiii/ImageDDS/CMakeFiles/ImageDataWrapper_swig_compilation.dir
+/home/juyiii/ImageDDS/CMakeFiles/edit_cache.dir
+/home/juyiii/ImageDDS/CMakeFiles/rebuild_cache.dir
+/home/juyiii/ImageDDS/CMakeFiles/list_install_components.dir
+/home/juyiii/ImageDDS/CMakeFiles/install.dir
+/home/juyiii/ImageDDS/CMakeFiles/install/local.dir
+/home/juyiii/ImageDDS/CMakeFiles/install/strip.dir
